@@ -1,0 +1,2 @@
+welcome to python file handling concept
+now we interact with text file
